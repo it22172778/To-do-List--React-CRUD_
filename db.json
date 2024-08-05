@@ -1,0 +1,24 @@
+{
+  "items": [
+    {
+      "id": "3",
+      "checked": true,
+      "item": "item 3"
+    },
+    {
+      "id": "311",
+      "checked": false,
+      "item": "learn programming"
+    },
+    {
+      "id": "3111111",
+      "checked": false,
+      "item": "adkdfnkfkn"
+    },
+    {
+      "id": "31111111",
+      "checked": false,
+      "item": "plastic products"
+    }
+  ]
+}
